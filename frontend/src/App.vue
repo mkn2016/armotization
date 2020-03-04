@@ -177,14 +177,12 @@
             </div>
           </div>
           <div class="h-100" v-else>
-            <div class="d-flex flex-row justify-content-center align-items-center h-100">
+            <div class="d-flex flex-column justify-content-center align-items-center h-100">
               <span class="font-weight-bold">
-                No Armotized Data Yet.  
-              </span>
-              <span class="font-weight-bold"> 
+                No Armotized Data Yet.
               </span>
               <span class="font-weight-normal">
-                Please fill in the form to continue.
+                 Please fill in the form to continue.
               </span>
             </div>
           </div>
